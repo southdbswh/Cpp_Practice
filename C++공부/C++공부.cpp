@@ -8,7 +8,7 @@ int main()
 	cout << "Enter num_2 : ";
 	cin >> j;
 
-	cout << "Sum : " << i + j << endl;
+	cout << "Multiply : " << i * j << endl;
 
 	return 0;
 }
